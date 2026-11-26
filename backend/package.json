@@ -1,0 +1,26 @@
+{
+  "name": "agroforge-backend",
+  "version": "1.0.0",
+  "description": "RESTful API Backend for AgroForge Agricultural Marketplace",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "seed": "node seed.js"
+  },
+  "keywords": ["agroforge", "express", "mongodb", "restful-api"],
+  "author": "Darma Lopi",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.7",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.11.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
