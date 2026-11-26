@@ -74,7 +74,7 @@ Endpoint yang sudah selesai (method + URL):
 
 ## 6. Pembuat Proyek
 
-- **Darma Lopi (2327240123)**:
+- 
   - Setup struktur arsitektur modular Express.js (MVC: controllers, models, routes, middlewares)
   - Pembuatan Schema Mongoose & relasi database MongoDB (`User`, `Product`, `Order`, `Complaint`)
   - Implementasi CRUD RESTful API lengkap (Products, Orders, Admin Stats & Complaints)
